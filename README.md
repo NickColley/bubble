@@ -1,7 +1,7 @@
 bubble
 ======
 
-A perfect ratio circle with centered text.
+A perfect circle with centered text.
 
 ```html
 <div class="bubble">
