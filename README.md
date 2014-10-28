@@ -23,8 +23,8 @@ bubble
   background-color: #EEE;
 }
 .bubble-outer {
-    position: absolute;
-    left: 0; top: 0; right: 0; bottom: 0;
+  position: absolute;
+  left: 0; top: 0; right: 0; bottom: 0;
 }
 .bubble-inner {
   display: table;
