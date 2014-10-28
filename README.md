@@ -43,6 +43,6 @@ A perfect circle with centered text.
 
 on codepen: http://codepen.io/nickcolley/pen/AIjay
 
-Works IE8+ (with the exception to border-radius although you could try something like PIE.. http://css3pie.com/ :/)
+Works IE8+ (with the exception to border-radius although you could try http://css3pie.com/ )
 
 Let me know if there's a better way to do this. Would love the feedback.
